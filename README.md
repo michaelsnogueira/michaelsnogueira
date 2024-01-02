@@ -1,12 +1,6 @@
 # Olá 👋, Eu sou Michael Nogueira
-<style>
-  .round-image {
-    border-radius: 50%;
-  }
-</style>
-
 <a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/">
-  <img src="https://media.licdn.com/dms/image/C4D03AQHicvyWN1Y3eg/profile-displayphoto-shrink_800_800/0/1642325015630?e=1709769600&v=beta&t=z6A56dsFDAipiVhyHkZwMc0LmyDhKA2B9Z-ImyvGdqk" alt="Foto de Michael Nogueira" align="right" height="50" class="round-image">
+  <img src="https://media.licdn.com/dms/image/C4D03AQHicvyWN1Y3eg/profile-displayphoto-shrink_800_800/0/1642325015630?e=1709769600&v=beta&t=z6A56dsFDAipiVhyHkZwMc0LmyDhKA2B9Z-ImyvGdqk" alt="Foto de Michael Nogueira" align="right" height="50" style="border-radius: 50%;">
 </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/">
@@ -48,6 +42,7 @@ Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Infor
 - Liderança Técnica
 - Desenvolvimento de Soluções
 - Contribuições Significativas em Projetos
+- [Outras Habilidades]
 
 ---
 
