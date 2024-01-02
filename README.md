@@ -1,11 +1,53 @@
-## Olá 👋, Eu sou Michael Nogueira
+# Olá 👋, Eu sou Michael Nogueira
 
-<a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Michael Nogueira é um profissional com vasta experiência no setor de Tecnologia da Informação, destacando-se como Tech Lead no Banco PAN, liderando o time de onboarding para Adquirência e Abertura de Conta. Nessa posição, ele desempenhou um papel crucial ao alinhar as necessidades com o time de produtos, concebendo soluções e coordenando a aprovação por áreas críticas, como arquitetura e segurança. Sua atuação incluiu o refinamento técnico em colaboração com a equipe técnica, garantindo uma transição suave das soluções para o desenvolvimento e, consequentemente, a entrega de valor ao produto no final de cada sprint.
+---
 
-Anteriormente, Michael acumulou experiência como engenheiro de software no mesmo contexto, atuando no refinamento técnico em colaboração com desenvolvedores e Tech Lead, focando na entrega eficiente durante as sprints. Sua trajetória profissional inclui também a posição de desenvolvedor Java Sênior na Empresa Global Web, com destaque para serviços prestados à CAIXA na área de loterias canal lotérico. Além disso, atuou como Analista de Sistemas na IBM, contribuindo para projetos voluntários internos voltados para a OI.
+## Sobre Mim
 
-Michael possui uma sólida base como programador Sênior na CAST, com participação integral no ciclo de vida de projetos para a SEFAZ, desde o desenvolvimento até a implantação. Sua experiência inclui ainda papéis de analista de sistemas na Decision Group, onde desempenhou papel fundamental no ambiente de produção, homologação e desenvolvimento de projetos para a OI. Na Bearing Point / CSC, atuou na equipe de investigação, sustentação e desenvolvimento, sendo responsável pelo atendimento de incidentes, implementação de correções e manutenções corretivas.
+Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Informação, atualmente atuando como Tech Lead no Banco PAN. Com um histórico sólido e diversificado, lidero o time de onboarding para Adquirência e Abertura de Conta, desempenhando um papel crucial na concepção e implementação de soluções alinhadas às necessidades do negócio.
 
-Com habilidades abrangentes em liderança técnica, desenvolvimento de soluções e contribuições significativas em diversos projetos, Michael Nogueira é um profissional altamente capacitado e comprometido com a excelência na área de Tecnologia da Informação.
+### Experiência Profissional
+
+- **Tech Lead - Banco PAN**
+    - Liderança do time de onboarding para Adquirência e Abertura de Conta.
+    - Colaboração estreita com o time de produtos para alinhar estratégias e garantir a segurança e eficiência das soluções.
+
+- **Engenheiro de Software Sênior - [Banco PAN]**
+    - Contribuições significativas para o refinamento técnico e entrega eficiente durante as sprints.
+
+- **Desenvolvedor Java Sênior - Empresa Global Web**
+    - Destaque em serviços prestados à CAIXA na área de loterias canal lotérico.
+
+- **Analista de Sistemas - IBM**
+    - Participação em projetos internos voltados para a OI.
+
+- **Programador Sênior - CAST**
+    - Ciclo de vida completo de projetos para a SEFAZ, desde o desenvolvimento até a implantação.
+
+- **Analista de Sistemas - Decision Group**
+    - Papel fundamental no ambiente de produção, homologação e desenvolvimento de projetos para a OI.
+
+- **Equipe de Investigação - Bearing Point / CSC**
+    - Atendimento de incidentes, implementação de correções e manutenções corretivas.
+
+### Habilidades
+
+- Liderança Técnica
+- Desenvolvimento de Soluções
+- Contribuições Significativas em Projetos
+- [Outras Habilidades]
+
+---
+
+## Contato
+
+- LinkedIn: [Michael Nogueira](https://www.linkedin.com/in/michael-nogueira-4a27a326/)
+- Email: [michaelsnogueira@gmail.com]
+
+---
+
+Agradeço por conferir o meu perfil! Sinta-se à vontade para entrar em contato para discussões, oportunidades ou colaborações.
