@@ -42,7 +42,6 @@ Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Infor
 - Liderança Técnica
 - Desenvolvimento de Soluções
 - Contribuições Significativas em Projetos
-- [Outras Habilidades]
 
 ---
 
