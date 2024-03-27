@@ -16,7 +16,7 @@ Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Infor
 ### Experiência Profissional
 
 - **Engenheiro de Software Sênior - [PagBank]**
-    - Produto OpenFinance - Estou no time responsável pela oferta de Iniciação de Pagamento via Open Finance para os produtos da Conta Digital, visando a melhor experiência de pagamento para o cliente, e assim estimular a retenção e uso contínuo dos nossos serviços.
+    - Produto Open Finance - Estou no time responsável pela oferta de Iniciação de Pagamento via Open Finance para os produtos da Conta Digital, visando a melhor experiência de pagamento para o cliente, e assim estimular a retenção e uso contínuo dos nossos serviços.
 
 - **Tech Lead - Banco PAN**
     - Liderança do time de onboarding para Adquirência e Abertura de Conta.
