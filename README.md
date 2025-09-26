@@ -11,12 +11,12 @@
 
 ## Sobre Mim
 
-Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Informação, atualmente atuando como Tech Lead no Banco PAN. Com um histórico sólido e diversificado, lidero o time de onboarding para Adquirência e Abertura de Conta, desempenhando um papel crucial na concepção e implementação de soluções alinhadas às necessidades do negócio.
+Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Informação, Atualmente estou atuando como Tech Lead no PagBank, onde lidero a equipe Open Finance no módulo de Iniciação de Pagamentos. Minha principal responsabilidade é alinhar as demandas de produto com as áreas técnicas e stratégicas, colaborando com times como arquitetura e segurança para garantir soluções robustas e seguras. Sou responsável pela concepção técnica das soluções, coordenando a transição suave entre oplanejamento e o desenvolvimento, assegurando a entrega de valor ao final de cada sprint.
 
 ### Experiência Profissional
 
-- **Engenheiro de Software Sênior - [PagBank]**
-    - Produto Open Finance - Estou no time responsável pela oferta de Iniciação de Pagamento via Open Finance para os produtos da Conta Digital, visando a melhor experiência de pagamento para o cliente, e assim estimular a retenção e uso contínuo dos nossos serviços.
+- **Tech Lead - [PagBank]**
+    - Produto Open Finance - Estou no time como Líder Técnico responsável pela oferta de Iniciação de Pagamento via Open Finance para os produtos da Conta Digital, visando a melhor experiência de pagamento para o cliente, e assim estimular a retenção e uso contínuo dos nossos serviços.
 
 - **Tech Lead - Banco PAN**
     - Liderança do time de onboarding para Adquirência e Abertura de Conta.
