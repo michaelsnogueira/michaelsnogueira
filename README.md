@@ -1,58 +1,44 @@
-# Olá 👋, Eu sou Michael Nogueira
-<a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/">
-  <img src="https://media.licdn.com/dms/image/C4D03AQHicvyWN1Y3eg/profile-displayphoto-shrink_800_800/0/1642325015630?e=1709769600&v=beta&t=z6A56dsFDAipiVhyHkZwMc0LmyDhKA2B9Z-ImyvGdqk" alt="Foto de Michael Nogueira" align="right" height="50" style="border-radius: 50%;">
-</a>
+# Olá, eu sou Michael Nogueira 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/michael-nogueira-4a27a326/">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+**Tech Lead | Open Finance | Java & Kotlin | Sistemas distribuídos | AWS**
 
----
+Atuo na liderança técnica de soluções de **Iniciação de Pagamentos via Open Finance** no **PagBank**. Meu trabalho conecta produto, engenharia, arquitetura e segurança para transformar necessidades de negócio em soluções robustas, observáveis e sustentáveis em produção.
 
-## Sobre Mim
+## Sobre mim
 
-Olá! Eu sou Michael Nogueira, um profissional experiente em Tecnologia da Informação, Atualmente estou atuando como Tech Lead no PagBank, onde lidero a equipe Open Finance no módulo de Iniciação de Pagamentos. Minha principal responsabilidade é alinhar as demandas de produto com as áreas técnicas e stratégicas, colaborando com times como arquitetura e segurança para garantir soluções robustas e seguras. Sou responsável pela concepção técnica das soluções, coordenando a transição suave entre oplanejamento e o desenvolvimento, assegurando a entrega de valor ao final de cada sprint.
+Sou engenheiro de software e líder técnico com experiência em serviços financeiros e sistemas de missão crítica. Participo da concepção das soluções, do refinamento técnico à entrega, apoiando o time na tomada de decisões e na evolução segura das plataformas.
 
-### Experiência Profissional
+Valorizo arquitetura pragmática, comunicação clara e decisões baseadas em evidências. Em produção, mantenho atenção especial a segurança, observabilidade, idempotência, concorrência, desempenho e compatibilidade de contratos.
 
-- **Tech Lead - [PagBank]**
-    - Produto Open Finance - Estou no time como Líder Técnico responsável pela oferta de Iniciação de Pagamento via Open Finance para os produtos da Conta Digital, visando a melhor experiência de pagamento para o cliente, e assim estimular a retenção e uso contínuo dos nossos serviços.
+## Foco técnico
 
-- **Tech Lead - Banco PAN**
-    - Liderança do time de onboarding para Adquirência e Abertura de Conta.
-    - Colaboração estreita com o time de produtos para alinhar estratégias e garantir a segurança e eficiência das soluções.
+- **Backend e APIs:** Java, Kotlin, Spring Boot e APIs REST
+- **Arquiteturas distribuídas:** microsserviços, Kafka, SNS, SQS e integrações assíncronas
+- **Cloud e infraestrutura:** AWS e Terraform
+- **Dados:** Oracle e bancos relacionais
+- **Engenharia de produção:** observabilidade, rastreabilidade, resiliência e tratamento de erros
+- **Contratos e integrações:** compatibilidade retroativa, evolução de schemas e impacto em consumidores
+- **Outros ecossistemas:** Guidewire ClaimCenter e Gosu
 
-- **Engenheiro de Software Sênior - [Banco PAN]**
-    - Contribuições significativas para o refinamento técnico e entrega eficiente durante as sprints.
+## Como atuo
 
-- **Desenvolvedor Java Sênior - Empresa Global Web**
-    - Destaque em serviços prestados à CAIXA na área de loterias canal lotérico.
+- Traduzo objetivos de produto em direcionamento técnico executável.
+- Promovo alinhamento entre engenharia, arquitetura, segurança e áreas de negócio.
+- Apoio refinamentos, decisões arquiteturais, revisões de código e evolução do time.
+- Busco entregas incrementais com qualidade, segurança e impacto controlado em produção.
+- Incentivo automação, testes e observabilidade como partes do desenho da solução.
 
-- **Analista de Sistemas - IBM**
-    - Participação em projetos internos voltados para a OI.
+## Experiência
 
-- **Programador Sênior - CAST**
-    - Ciclo de vida completo de projetos para a SEFAZ, desde o desenvolvimento até a implantação.
+Atualmente sou **Tech Lead no PagBank**, com foco em Open Finance e Iniciação de Pagamentos.
 
-- **Analista de Sistemas - Decision Group**
-    - Papel fundamental no ambiente de produção, homologação e desenvolvimento de projetos para a OI.
+Anteriormente, atuei como **Tech Lead** e **Engenheiro de Software Sênior no Banco PAN**, além de experiências em desenvolvimento, sustentação e sistemas críticos em empresas como Global Web, IBM, CAST, Decision Group e BearingPoint/CSC.
 
-- **Equipe de Investigação - Bearing Point / CSC**
-    - Atendimento de incidentes, implementação de correções e manutenções corretivas.
+## Interesses
 
-### Habilidades
+Open Finance • Pagamentos • Arquitetura de software • Sistemas distribuídos • APIs • Cloud • Liderança técnica
 
-- Liderança Técnica
-- Desenvolvimento de Soluções
-- Contribuições Significativas em Projetos
+## Vamos conversar?
 
----
-
-## Contato
-
-- LinkedIn: [Michael Nogueira](https://www.linkedin.com/in/michael-nogueira-4a27a326/)
-- Email: [michaelsnogueira@gmail.com]
-
----
-
-Agradeço por conferir o meu perfil! Sinta-se à vontade para entrar em contato para discussões, oportunidades ou colaborações.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Nogueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-nogueira-4a27a326/)
+[![Email](https://img.shields.io/badge/Email-michaelsnogueira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelsnogueira@gmail.com)
